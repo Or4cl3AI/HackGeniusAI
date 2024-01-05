@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/HackGeniusAI is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
@@ -12,11 +13,13 @@ Or4cl3AI/HackGeniusAI is built on the following main stack:
 - [PyTorch](http://pytorch.org/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/HackGeniusAI is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
@@ -27,14 +30,15 @@ Or4cl3AI/HackGeniusAI is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg' alt='PyTorch'/> [PyTorch](http://pytorch.org/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/HackGeniusAI](https://github.com/Or4cl3AI/HackGeniusAI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|11/24/23 <br/>Report generated|
+|24<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -145,20 +149,20 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Flask](https://pypi.org/Flask)|v1.1.2|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[black](https://pypi.org/black)|N/A|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[flake8](https://pypi.org/flake8)|v3.9.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[gunicorn](https://pypi.org/gunicorn)|v20.1.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[isort](https://pypi.org/isort)|v5.8.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[mypy](https://pypi.org/mypy)|v0.812|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[nltk](https://pypi.org/nltk)|v3.5|08/08/23|e2b-for-github[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
-|[pandas](https://pypi.org/pandas)|v1.2.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[pre-commit](https://pypi.org/pre-commit)|v2.12.1|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[pytest-cov](https://pypi.org/pytest-cov)|v2.11.1|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[python-decouple](https://pypi.org/python-decouple)|v3.4|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|v0.17.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[scikit-learn](https://pypi.org/scikit-learn)|v0.24.1|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[seaborn](https://pypi.org/seaborn)|v0.11.1|08/08/23|e2b-for-github[bot] |BSD-1-Clause|N/A|
+|[Flask](https://pypi.org/project/Flask)|v1.1.2|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[black](https://pypi.org/project/black)|N/A|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[flake8](https://pypi.org/project/flake8)|v3.9.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[gunicorn](https://pypi.org/project/gunicorn)|v20.1.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[isort](https://pypi.org/project/isort)|v5.8.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[mypy](https://pypi.org/project/mypy)|v0.812|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[nltk](https://pypi.org/project/nltk)|v3.5|08/08/23|e2b-for-github[bot] |Apache-2.0|[CVE-2021-43854](https://github.com/advisories/GHSA-f8m6-h2c7-8h9x) (High)<br/>[CVE-2021-3842](https://github.com/advisories/GHSA-rqjh-jp2r-59cj) (High)<br/>[CVE-2021-3828](https://github.com/advisories/GHSA-2ww3-fxvq-293j) (High)|
+|[pandas](https://pypi.org/project/pandas)|v1.2.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[pre-commit](https://pypi.org/project/pre-commit)|v2.12.1|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[pytest-cov](https://pypi.org/project/pytest-cov)|v2.11.1|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[python-decouple](https://pypi.org/project/python-decouple)|v3.4|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v0.17.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.24.1|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[seaborn](https://pypi.org/project/seaborn)|v0.11.1|08/08/23|e2b-for-github[bot] |BSD-1-Clause|N/A|
 
 <br/>
 <div align='center'>
