@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/HackGeniusAI
 report_id: 5e1efa731258eb3548674a01bf9dbe29
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T02:00:13+00:00'
+timestamp: '2024-01-05T08:34:41+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -25,6 +27,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/setup.py
   detection_source: hackgeniusai/deployment/setup.py
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -58,7 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -72,7 +77,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -84,6 +89,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/setup.py
   detection_source: hackgeniusai/deployment/setup.py
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -97,7 +103,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
@@ -111,8 +117,8 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
-  detection_source: hackgeniusai/deployment/setup.py
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
+  detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: Torch
@@ -124,12 +130,13 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: Flask
   description: A simple framework for building complex web applications
-  package_url: https://pypi.org/Flask
+  package_url: https://pypi.org/project/Flask
   version: 1.1.2
   license: BSD-3-Clause
   open_source: true
@@ -137,25 +144,26 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: black
   description: The uncompromising code formatter
-  package_url: https://pypi.org/black
+  package_url: https://pypi.org/project/black
   license: MIT
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20099/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: flake8
   description: 'The modular source code checker: pep8, pyflakes and co'
-  package_url: https://pypi.org/flake8
+  package_url: https://pypi.org/project/flake8
   version: 3.9.0
   license: MIT
   open_source: true
@@ -163,13 +171,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19920/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: gunicorn
   description: WSGI HTTP Server for UNIX
-  package_url: https://pypi.org/gunicorn
+  package_url: https://pypi.org/project/gunicorn
   version: 20.1.0
   license: MIT
   open_source: true
@@ -177,13 +185,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: isort
   description: A Python utility / library to sort Python imports
-  package_url: https://pypi.org/isort
+  package_url: https://pypi.org/project/isort
   version: 5.8.0
   license: MIT
   open_source: true
@@ -191,13 +199,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20117/default_9cf91bfbbfb266fc12a914cdc09d9e4b55c773bb.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: mypy
   description: Optional static typing for Python
-  package_url: https://pypi.org/mypy
+  package_url: https://pypi.org/project/mypy
   version: '0.812'
   license: MIT
   open_source: true
@@ -205,13 +213,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20219/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: nltk
   description: Natural Language Toolkit
-  package_url: https://pypi.org/nltk
+  package_url: https://pypi.org/project/nltk
   version: '3.5'
   license: Apache-2.0
   open_source: true
@@ -219,8 +227,8 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20023/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
-  detection_source: hackgeniusai/deployment/setup.py
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
+  detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
   vulnerabilities:
@@ -244,7 +252,7 @@ tools:
     first_patched: 3.6.4
 - name: pandas
   description: Powerful data structures for data analysis
-  package_url: https://pypi.org/pandas
+  package_url: https://pypi.org/project/pandas
   version: 1.2.4
   license: BSD-3-Clause
   open_source: true
@@ -252,14 +260,14 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: pre-commit
   description: A framework for managing and maintaining multi-language pre-commit
     hooks
-  package_url: https://pypi.org/pre-commit
+  package_url: https://pypi.org/project/pre-commit
   version: 2.12.1
   license: MIT
   open_source: true
@@ -267,13 +275,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20560/default_d975dcf643a054134f39226d51d4a5fea9320efe.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: pytest-cov
   description: Pytest plugin for measuring coverage
-  package_url: https://pypi.org/pytest-cov
+  package_url: https://pypi.org/project/pytest-cov
   version: 2.11.1
   license: MIT
   open_source: true
@@ -281,13 +289,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19958/default_e91a78767854f0fa80aab2f13d1a25b15ca2d278.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: python-decouple
   description: Strict separation of settings from code
-  package_url: https://pypi.org/python-decouple
+  package_url: https://pypi.org/project/python-decouple
   version: '3.4'
   license: MIT
   open_source: true
@@ -295,13 +303,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20545/default_7b61da87043cab6a451d00283941da078ee5c9d9.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: python-dotenv
   description: Add .env support to your django/flask apps in development and deployments
-  package_url: https://pypi.org/python-dotenv
+  package_url: https://pypi.org/project/python-dotenv
   version: 0.17.0
   license: BSD-3-Clause
   open_source: true
@@ -309,13 +317,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: scikit-learn
   description: A set of python modules for machine learning and data mining
-  package_url: https://pypi.org/scikit-learn
+  package_url: https://pypi.org/project/scikit-learn
   version: 0.24.1
   license: BSD-3-Clause
   open_source: true
@@ -323,13 +331,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
 - name: seaborn
   description: 'Seaborn: statistical data visualization'
-  package_url: https://pypi.org/seaborn
+  package_url: https://pypi.org/project/seaborn
   version: 0.11.1
   license: BSD-1-Clause
   open_source: true
@@ -337,7 +345,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: hackgeniusai/deployment/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/HackGeniusAI/blob/main/hackgeniusai/deployment/requirements.txt
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
