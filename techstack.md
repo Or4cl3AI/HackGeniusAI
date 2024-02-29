@@ -4,13 +4,13 @@
 Or4cl3AI/HackGeniusAI is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Torch](http://torch.ch/) – Machine Learning Tools
 - [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [PyTorch](http://pytorch.org/) – Machine Learning Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 Or4cl3AI/HackGeniusAI is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg' alt='PyTorch'/> [PyTorch](http://pytorch.org/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/HackGeniusAI](https://github.com/Or4cl3AI/HackGeniusAI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|01/05/24 <br/>Report generated|
+|24<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,7 +161,7 @@ Full tech stack [here](/techstack.md)
 |[pytest-cov](https://pypi.org/project/pytest-cov)|v2.11.1|08/08/23|e2b-for-github[bot] |MIT|N/A|
 |[python-decouple](https://pypi.org/project/python-decouple)|v3.4|08/08/23|e2b-for-github[bot] |MIT|N/A|
 |[python-dotenv](https://pypi.org/project/python-dotenv)|v0.17.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.24.1|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[scikit-learn](https://pypi.org/project/scikit-learn)|v0.24.1|08/08/23|e2b-for-github[bot] |BSD-3-Clause|[CVE-2020-28975](https://github.com/advisories/GHSA-jxfp-4rvq-9h9m) (High)|
 |[seaborn](https://pypi.org/project/seaborn)|v0.11.1|08/08/23|e2b-for-github[bot] |BSD-1-Clause|N/A|
 
 <br/>
