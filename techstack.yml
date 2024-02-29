@@ -2,7 +2,7 @@ repo_name: Or4cl3AI/HackGeniusAI
 report_id: 5e1efa731258eb3548674a01bf9dbe29
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:34:41+00:00'
+timestamp: '2024-02-29T18:53:33+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -335,6 +335,13 @@ tools:
   detection_source: hackgeniusai/deployment/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 20:04:51.000000000 Z
+  vulnerabilities:
+  - name: scikit-learn Denial of Service
+    cve_id: CVE-2020-28975
+    cve_url: https://github.com/advisories/GHSA-jxfp-4rvq-9h9m
+    detected_date: Feb 3
+    severity: high
+    first_patched: 1.0.1
 - name: seaborn
   description: 'Seaborn: statistical data visualization'
   package_url: https://pypi.org/project/seaborn
